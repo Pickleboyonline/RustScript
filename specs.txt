@@ -1,0 +1,77 @@
+// No classes.
+// No `this`
+// No undefined, use optional enums like rust
+// Improved error handling
+
+const d = {
+    pizza: 312,
+    dsadas: '321312'
+}
+
+type P = {
+    das: '3243',
+    // Unary operator
+    '+': lll
+}
+
+function create_person() {
+    let n = 0;
+    let p = 21:
+
+    return {
+        getPizza: () => {
+
+        },
+        pineabl: () => {
+
+        }
+    }
+}
+
+// DSL Support!
+function (banana: P) getPizza(arg: () => void) {
+
+}
+
+let getPizza: P.(ok: number) => {
+    // Auto unwraps. (use (receiver: P).() for clear syntax) 
+    return das
+}
+
+const l: P = {}
+
+l.getPizza(7)
+
+type HTML = {
+    head: (init: HTML.() => void)
+}
+
+const createHTML = () => {
+    ///
+    return {}
+}
+
+
+// How to build DSL
+// https://kotlinlang.org/docs/type-safe-builders.html#scope-control-dslmarker
+
+function html(init: HTML.() => void): HTML {
+    // Shadowing
+    const html = createHTML()
+    html.init()
+    return html
+}
+
+// Last arg closure statement
+html {
+    head {
+
+    }
+}
+
+
+// Async Operations + Coroutines for mutlithreading
+
+
+// Program is implimented in Go
+// For the most part, thats it.
